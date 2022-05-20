@@ -6,17 +6,17 @@ const Detail = () => {
     <Background>
       <Container>
         <ImageTitle>
-          <img src="https://upload.wikimedia.org/wikipedia/fr/1/1a/Bao_logo.png" />
+          <img src="https://upload.wikimedia.org/wikipedia/fr/1/1a/Bao_logo.png" alt="disney-clone" />
         </ImageTitle>
 
         <Controls>
           <PlayButton>
-            <img src="/images/play-icon-black.png" />
+            <img src="/images/play-icon-black.png" alt="disney-clone" />
             <span>PLAY</span>
           </PlayButton>
 
           <TrailerButton>
-            <img src="/images/play-icon-white.png" />
+            <img src="/images/play-icon-white.png" alt="disney-clone" />
             <span>Trailer</span>
           </TrailerButton>
 
@@ -25,7 +25,7 @@ const Detail = () => {
           </AddButton>
 
           <GroupWatchButton>
-            <img src="/images/group-icon.png" alt="" />
+            <img src="/images/group-icon.png" alt="sas" />
           </GroupWatchButton>
         </Controls>
 
